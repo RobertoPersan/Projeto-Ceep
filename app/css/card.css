@@ -21,3 +21,29 @@
 .card_colorFourth {
     background-color: #ebef40;
 }
+
+.card-colors {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    color: rgba(255, 255, 255, 0);
+    overflow: hidden;
+    border-radius: 50%;
+    border: 2px solid rgba(0, 0, 0, 0.5)
+}
+
+.card-colors_colorFirst {
+    background-color: #45aaee;
+}
+
+.card-colors_colorSecond {
+    background-color: #ff1010;
+}
+
+.card-colors_colorThird {
+    background-color: #76ef40;
+}
+
+.card-colors_colorFourth {
+    background-color: #ebef40;
+}
