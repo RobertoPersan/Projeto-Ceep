@@ -10,6 +10,9 @@
     display: inline;
     vertical-align: middle;
 }
+.header-menu {
+    float: right;
+}
 
 .header-button {
     background-color: #006195;
@@ -18,5 +21,5 @@
     box-sizing: content-box;
     height: 22px;
     padding: 8px;
-    margin-left: auto;
+    display: inline-block;
 }
