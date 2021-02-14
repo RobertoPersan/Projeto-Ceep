@@ -4,6 +4,7 @@
     box-sizing: border-box;
     padding: 16px;
     width: 25%;
+    position: relative;
 }
 
 .card_colorFirst {
@@ -20,6 +21,12 @@
 
 .card_colorFourth {
     background-color: #ebef40;
+}
+
+.wrap-card-colors{
+    position:absolute;
+    top: -18px;
+    left: 0px;
 }
 
 .card-colors {
